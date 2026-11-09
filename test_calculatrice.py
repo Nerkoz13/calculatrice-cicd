@@ -1,6 +1,5 @@
 
 import pytest
-from calculatrice import addition, soustraction, multiplication, division
 from calculatrice import addition, soustraction, multiplication, division, puissance
 
 
